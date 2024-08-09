@@ -20,6 +20,18 @@ permalink: /year/2024/info/panels
 
 The early phases of a technical career follow a fairly prescribed trajectory: graduation, initial positions, promotion, tenure (or its industry equivalent), etc. In these early phases, the milestones are clear (degrees, appointments, promotions), and mentoring is often explicit (research advisors, mentoring committees). But beyond these early phases, the explicit goals and resources do not exist. As we get to later career stages, the set of options and opportunities grows. We have observed that while the opportunities grow at later career phases, the amount of mentoring and discussion seems to disappear. The goal of this panel is to foster more dialog about later career phases. As a starting point, we hope to raise awareness of the expanded range of opportunities and invite dialog about how others have thought about crafting their careers. We hope to foster a dialog among the community and begin a tradition of mentoring beyond initial career phases.
 
+## <a name="panel-brehmer">VIS Conference Futures: Community Opinions on Recent Experiences, Challenges, and Opportunities for Hybrid Event Formats</a>
+
+<!-- When: Wednesday, October 25, 2023 3:45 PM-5:00 PM AEDT (UTC+11)<br/> -->
+<!-- Location: Room 101+102 -->
+
+**Organizers:** Matthew Brehmer (Tableau Research), Narges Mahyar (University of Massachusetts)<br>
+**Panelists:** TBD
+
+<!-- <br>[Video Preview](TBD) -->
+
+This past year, the VIS Executive Committee (VEC) has been considering the extent to which VIS should adopt a hybrid format. Despite advances in communication technology, creating an engaging virtual experience that matches the energy of a conventional in-person gathering remains challenging. Meanwhile, a functional hybrid conference imposes additional burdens on organizers, with added logistical complexities and their associated costs. Wicked problems refer to complex, interconnected issues that lack clear solutions. Conference planning epitomizes this concept, as it involves several interconnected factors and stakeholders with various backgrounds, expectations and objectives, and uncertainties. As we navigate the wicked problem of conference formats, acknowledging the complexity and interconnectedness of the factors is crucial. While there is no one-size-fits-all solution, striking a balance between the benefits of in-person engagement and virtual participation will be key. To ground the conversation about the future conferences in data, we first analyzed recent VIS attendance data to better understand how the effects of location and format (in-person, virtual, or hybrid) on attendance. Second, we partnered with the IEEE VGTC (Visualization & Graphics Technical Community) Executive Committee to conduct an online community survey about recent and future conference experiences. We propose a panel dedicated to discussing the implications of the data we collected, gathering together the diverse perspectives that will further contextualize and reflect the voices from our survey. Given the range of responses and the strong opinions that respondents voiced in the open-ended comments, we expect this to be a lively forum that will inform and inspire VIS community members and especially those in organizing committee roles (or who may undertake such roles in the coming years).
+
 ## <a name="panel-wang">Human-Centered Computing Research in South America: Status Quo, Opportunities, and Challenges</a>
 
 <!-- When: Wednesday, October 25, 2023 10:45 AM-12:00 PM AEDT (UTC+11)<br/>
@@ -36,7 +48,7 @@ Human-centered computing (HCC) research, including visualization (VIS), virtual 
 Location: Room 101+102 -->
 
 
-**Organizers:** Haotian Li (HKUST), Yun Wang (Microsoft), Benjamin Bach (Inria and University of Edinburgh), Sheelagh Carpendale (Simon Fraser University), Fanny Chevalier (University of Toronto)
+**Organizers:** Haotian Li (HKUST), Yun Wang (Microsoft), Benjamin Bach (Inria and University of Edinburgh), Sheelagh Carpendale (Simon Fraser University), Fanny Chevalier (University of Toronto), Nathalie Riche (Microsoft Research)
 <br>**Panelists:** TBD
 
 Data storytelling has become an important approach to communicate insights and knowledge from data in practice. The visualization community has spent tremendous efforts investigating data storytelling practices, designing new forms of visuals, proposing authoring tools, and recently introducing intelligent support for expressive and engaging data stories. To reflect the research progress and have an outlook for future opportunities, we propose this panel with experienced researchers from academia and industry to ignite new ideas and discussions for advancing data storytelling research.
@@ -87,4 +99,5 @@ Location: Room 101+102 -->
 Situated visualizations are visual data representations that are deeply integrated with the spaces, objects, and activities in a physical environment. Situated visualizations enable people to take advantage of data to support their work or daily activities, while minimizing the cognitive effort of accessing and using that data within physical environments. They display data in close proximity to physical referents, or physical objects to which the data refer. Situated visualizations may be created with a variety of technologies including small displays and mobile devices, augmented reality goggles, handheld projectors, and data physicalizations. Evidence suggests that situated visualization tools can reduce the friction of interacting with data in the context of physical world activities, serve as reminders for data actions, and encourage engagement and reflection. Yet situated visualizations have not be widely adopted, in part because there is little design guidance. Numerous challenges remain, including context switching (e.g., between primary physical
 
 activities and secondary visualization tasks), integration with existing systems (e.g., manufacturing equipment), alignment with physical referents (which may move), potential interference or distraction from primary tasks (which in some contexts could be dangerous), the need for people to learn and adopt new technology into well ingrained workflows and the need to accommodate individual differences and accessibility. New technology is enabling, but is it just a fad? This panel will discuss and debate these questions to clarify the current challenges as well as future opportunities for situated visualizations.
+
 
